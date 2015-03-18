@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Andrey/EventListener.cs">
+    <Files>
+      <File FileName="Assets/Andrey/EventGenerator.cs" Line="62" Column="46" />
+      <File FileName="Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs" Line="52" Column="4" />
+      <File FileName="Assets/Andrey/EventListener.cs" Line="131" Column="3" />
+      <File FileName="Assets/Andrey/Respawn.cs" Line="34" Column="70" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
